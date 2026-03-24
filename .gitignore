@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+outputs/
+
+# Private keys — NEVER commit
+.env
+
+# IDE
+.vscode/
+*.swp

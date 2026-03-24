@@ -1,0 +1,6 @@
+{
+  "program": "lastvault_dms.aleo",
+  "version": "0.1.0",
+  "description": "LastVault Dead-Man's Switch — Trustless digital inheritance on Aleo with native ZK privacy.",
+  "license": "MIT"
+}
